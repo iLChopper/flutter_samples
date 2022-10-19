@@ -1,16 +1,4 @@
-# flutter_samples
 
-A new Flutter project.
+<h3>Flutter Bloc </h3>
+<img src="https://user-images.githubusercontent.com/2502778/196799695-775f6808-4cd4-4ed2-90d2-350bdb2db097.gif" width="180" height="350">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

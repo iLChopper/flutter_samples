@@ -1,7 +1,6 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'flutter_bloc.dart';
+import 'flutter_bloc/flutter_bloc.dart';
 import 'main.dart';
 
 class Routes {
@@ -17,7 +16,7 @@ class Routes {
       case menu:
         return _buildRoute(const LessonMenu());
       case flutterBloc:
-        return _buildRoute(FlutterBloc());
+        return _buildRoute(const FlutterBloc());
       default:
         throw Exception('this routes not exist');
     }
